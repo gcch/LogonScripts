@@ -1,4 +1,4 @@
-#SGOName	LocalName	RemoteName	DriveName
+#GrpName	LocalName	RemoteName	DriveName
 Music	X:	\\server\music	Music
 Photo	Y:	\\server\photo	Photo
 Video	Z:	\\server\video	Video
