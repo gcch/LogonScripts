@@ -1,4 +1,4 @@
-# LogonScripts
+# Windows Logon Scripts
 
 ## Overview
 気が向いて作った Microsoft Windows グループポリシーログオンスクリプトの掃き溜め
